@@ -4,7 +4,8 @@
 
 ## Web 应用程序功能
 <img width="331" height="439" alt="image" src="https://github.com/user-attachments/assets/1e35ab53-6e08-45ce-a54c-9d95d48b23c9" />
-**把老师给的html格式课件文件转换成word、md格式，方便进行AI整理笔记**
+
+**把老师给的html格式课件文件转换成word、md格式，方便进行AI整理笔记** 
 <img width="1343" height="425" alt="image" src="https://github.com/user-attachments/assets/41a2452e-9a99-4a47-acd9-7c1121a2b8f1" />
 <img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/018207fd-93eb-4635-8726-33335ae4a217" />
 <img width="1049" height="546" alt="image" src="https://github.com/user-attachments/assets/d5b3e858-beb8-4db6-90ea-948b783801aa" />
